@@ -1,0 +1,6 @@
+<script lang="ts">
+  export let article;
+</script>
+
+<h1>{article.title}</h1>
+<p>{article.body}</p>
